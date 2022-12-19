@@ -2,6 +2,15 @@
 
 I analyzed the GDP by countries from 1999 to 2022, and forecasted to predict the future.
 
+
+`Follow link to have a glance at the complete project` [Read More](https://njimonda.github.io/gdpDemo/)
+
+## Insights
+
+- A 10 year Forecast shows that the GDP by country will steadily increase as from the year 2020.
+
+- United States of America has the highest GDP (Gross Domestic Product) in the World.
+
 ## Importing Data from Excel
 
 ![Logo](https://github.com/njimonda/GDP-by-Country-1999-2022/blob/main/steps/1.png)
