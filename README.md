@@ -39,8 +39,6 @@ I analyzed the GDP by countries from 1999 to 2022, and forecasted to predict the
 
 ![Logo](https://github.com/njimonda/GDP-by-Country-1999-2022/blob/main/steps/9.png)
 
-## Insights
-
 
 ## Usage
 
