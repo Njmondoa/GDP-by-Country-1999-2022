@@ -22,13 +22,10 @@ I analyzed the GDP by countries from 1999 to 2022, and forecasted to predict the
 
 ![Logo](https://github.com/njimonda/GDP-by-Country-1999-2022/blob/main/steps/6.png)
 
-## Renaming column and converting data type to "Date"
+## Column Spliting and Converting Data Type to "Date"
 
 ![Logo](https://github.com/njimonda/GDP-by-Country-1999-2022/blob/main/steps/7.png)
 
-## vvvv
-
-![Logo](https://github.com/njimonda/GDP-by-Country-1999-2022/blob/main/steps/8.png)
 
 ## Data Visualization
 
