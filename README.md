@@ -1,32 +1,40 @@
 # GDP by Country
 
-## Data Cleaning and Preperation
+I analyzed the GDP by countries from 1999 to 2022, and forecasted to predict the future.
+
+## Importing Data from Excel
 
 ![Logo](https://github.com/njimonda/GDP-by-Country-1999-2022/blob/main/steps/1.png)
 
+## Load and Transform Data
 
 ![Logo](https://github.com/njimonda/GDP-by-Country-1999-2022/blob/main/steps/2.png)
 
+## Columns Headers Verification
 
 ![Logo](https://github.com/njimonda/GDP-by-Country-1999-2022/blob/main/steps/3.png)
 
+## Using First Row as Column Headers
 
 ![Logo](https://github.com/njimonda/GDP-by-Country-1999-2022/blob/main/steps/4.png)
 
-
-![Logo](https://github.com/njimonda/GDP-by-Country-1999-2022/blob/main/steps/5.png)
-
+## Unpivoting Every column with the exception of "Country Column"
 
 ![Logo](https://github.com/njimonda/GDP-by-Country-1999-2022/blob/main/steps/6.png)
 
+## Renaming column and converting data type to "Date"
 
 ![Logo](https://github.com/njimonda/GDP-by-Country-1999-2022/blob/main/steps/7.png)
 
+## vvvv
 
 ![Logo](https://github.com/njimonda/GDP-by-Country-1999-2022/blob/main/steps/8.png)
 
+## Data Visualization
 
 ![Logo](https://github.com/njimonda/GDP-by-Country-1999-2022/blob/main/steps/9.png)
+
+## Insights
 
 
 # Usage
